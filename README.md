@@ -16,15 +16,21 @@ Download the repository from GitHub to your PC:
    pip install wheel
    python setup.py bdist_wheel
    pip install dist/dragonnet-0.1-py3-none-any.whl
+   
 3. Install wheel package
-```bash
-pip install wheel
+   
+   ```bash
+   pip install wheel
+
 4. Build the wheel distribution
-```bash
-python setup.py bdist_wheel
+
+   ```bash
+   python setup.py bdist_wheel
+
 5. Install the Dragonnet package
-```bash
-pip install dist/dragonnet-0.1-py3-none-any.whl
+
+   ```bash
+   pip install dist/dragonnet-0.1-py3-none-any.whl
 
 ## 2. Set Working Directory
 
